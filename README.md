@@ -1,4 +1,4 @@
 steventure
 ==========
 
-Python playing by making a text adventure game okay thanks
+it's going to be a text adventure game or something okay thanks
